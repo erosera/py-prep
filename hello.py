@@ -1,3 +1,4 @@
-print("hello")
-print("labuka")
-print("viso gero")
+# Ask user for their name
+
+name = input("Koks tavo vardas? ")
+print("hello, " + name)
